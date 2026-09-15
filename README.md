@@ -1,4 +1,4 @@
-# TideBH
+# tideBH
 
 ![alt text](/favicon/favicon-160.png "TideBH")
 
